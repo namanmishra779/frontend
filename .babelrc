@@ -1,0 +1,6 @@
+{
+    "plugins": [
+        "@babel/plugin-syntax-import-attributes"
+        // other plugins
+    ]
+}
